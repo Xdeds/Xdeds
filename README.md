@@ -5,5 +5,3 @@
 <img src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3" alt="">
 <img src="https://img.shields.io/badge/-telegrambot-aqua?style=for-the-badge&logo=telegram" alt="">
 <img src="https://img.shields.io/badge/-JAVASCRIPT-aqua?style=for-the-badge&logo=javascript" alt="">
-
-<img src="https://img.shields.io/badge/-javascript-red" alt="">
